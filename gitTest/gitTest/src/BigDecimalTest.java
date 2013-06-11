@@ -30,7 +30,7 @@ public class BigDecimalTest {
 		this.test = test;
 	}
 
-	 
+	   
 	@Override
 	public int hashCode() {
 		final int prime = 31;
